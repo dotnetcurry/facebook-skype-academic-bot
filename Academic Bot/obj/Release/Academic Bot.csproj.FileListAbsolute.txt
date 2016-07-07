@@ -1,0 +1,21 @@
+E:\TFSOnline\My Apps\Academic Bot\Academic Bot\bin\Academic Bot.dll.config
+E:\TFSOnline\My Apps\Academic Bot\Academic Bot\bin\Academic Bot.dll
+E:\TFSOnline\My Apps\Academic Bot\Academic Bot\bin\Academic Bot.pdb
+E:\TFSOnline\My Apps\Academic Bot\Academic Bot\bin\Microsoft.Bot.Connector.dll
+E:\TFSOnline\My Apps\Academic Bot\Academic Bot\bin\Microsoft.Bot.Connector.Utilities.dll
+E:\TFSOnline\My Apps\Academic Bot\Academic Bot\bin\Microsoft.Rest.ClientRuntime.dll
+E:\TFSOnline\My Apps\Academic Bot\Academic Bot\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\TFSOnline\My Apps\Academic Bot\Academic Bot\bin\Newtonsoft.Json.dll
+E:\TFSOnline\My Apps\Academic Bot\Academic Bot\bin\System.Net.Http.Formatting.dll
+E:\TFSOnline\My Apps\Academic Bot\Academic Bot\bin\System.Web.Http.dll
+E:\TFSOnline\My Apps\Academic Bot\Academic Bot\bin\System.Web.Http.WebHost.dll
+E:\TFSOnline\My Apps\Academic Bot\Academic Bot\bin\Microsoft.Rest.ClientRuntime.xml
+E:\TFSOnline\My Apps\Academic Bot\Academic Bot\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\TFSOnline\My Apps\Academic Bot\Academic Bot\bin\Newtonsoft.Json.xml
+E:\TFSOnline\My Apps\Academic Bot\Academic Bot\bin\System.Net.Http.Formatting.xml
+E:\TFSOnline\My Apps\Academic Bot\Academic Bot\bin\System.Web.Http.xml
+E:\TFSOnline\My Apps\Academic Bot\Academic Bot\bin\System.Web.Http.WebHost.xml
+E:\TFSOnline\My Apps\Academic Bot\Academic Bot\obj\Release\Academic Bot.csprojResolveAssemblyReference.cache
+E:\TFSOnline\My Apps\Academic Bot\Academic Bot\obj\Release\Academic Bot.dll
+E:\TFSOnline\My Apps\Academic Bot\Academic Bot\obj\Release\Academic Bot.pdb
+E:\TFSOnline\My Apps\Academic Bot\Academic Bot\bin\Microsoft.Bot.Builder.dll
